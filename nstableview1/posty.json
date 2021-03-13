@@ -1,0 +1,463 @@
+{
+    "tracks" : [
+        {
+            "service" : "applemusic",
+            "serviceId" : "1554898171",
+            "album" : "Only Wanna Be With You (Pokémon 25 Version) - Single",
+            "isrc" : "USUM72102513",
+            "track" : "Only Wanna Be With You (Pokémon 25 Version)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1536655594",
+            "album" : "Featuring Ty Dolla $ign",
+            "isrc" : "USAT22005586",
+            "track" : "Spicy (feat. Post Malone)",
+            "artist" : "Ty Dolla $ign"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880561",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915699",
+            "track" : "Circles",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880548",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915733",
+            "track" : "Saint-Tropez",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880552",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915725",
+            "track" : "Enemies (feat. DaBaby)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880568",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915731",
+            "track" : "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880554",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915722",
+            "track" : "Allergic",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880487",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915730",
+            "track" : "Hollywood's Bleeding",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880558",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915724",
+            "track" : "A Thousand Bad Times",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880563",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915723",
+            "track" : "Die For Me (feat. Future & Halsey)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880565",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915729",
+            "track" : "On the Road (feat. Meek Mill & Lil Baby)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880759",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915727",
+            "track" : "I'm Gonna Be",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880762",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915728",
+            "track" : "Staring at the Sun (feat. SZA)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880764",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71814888",
+            "track" : "Sunflower (Spider-Man: Into the Spider-Verse)",
+            "artist" : "Post Malone & Swae Lee"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880766",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915726",
+            "track" : "Internet",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880768",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71912330",
+            "track" : "Goodbyes (feat. Young Thug)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880771",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915734",
+            "track" : "Myself",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880775",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71915732",
+            "track" : "I Know",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1477880777",
+            "album" : "Hollywood's Bleeding",
+            "isrc" : "USUM71822626",
+            "track" : "Wow.",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517313",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805170",
+            "track" : "Better Now",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517312",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710836",
+            "track" : "Psycho (feat. Ty Dolla $ign)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517326",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805176",
+            "track" : "92 Explorer",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517316",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805172",
+            "track" : "Stay",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516920",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710087",
+            "track" : "rockstar (feat. 21 Savage)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517312",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710836",
+            "track" : "Psycho (feat. Ty Dolla $ign)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517334",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805177",
+            "track" : "Sugar Wraith",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516920",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710087",
+            "track" : "rockstar (feat. 21 Savage)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517329",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71711842",
+            "track" : "Candy Paint",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516907",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710835",
+            "track" : "Paranoid",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516909",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805166",
+            "track" : "Rich & Sad",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887527",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614475",
+            "track" : "I Fall Apart",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516908",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805153",
+            "track" : "Spoil My Night (feat. Swae Lee)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887746",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71603455",
+            "track" : "Go Flex",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516910",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805167",
+            "track" : "Zack and Codeine",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373516911",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805168",
+            "track" : "Takin' Shots",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517311",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805169",
+            "track" : "Over Now",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517314",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71710834",
+            "track" : "Ball For Me (feat. Nicki Minaj)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887516",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614471",
+            "track" : "No Option",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887523",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71511528",
+            "track" : "White Iverson",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517315",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805171",
+            "track" : "Otherside",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517325",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805175",
+            "track" : "Jonestown (Interlude)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517319",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805174",
+            "track" : "Same Bitches (feat. G-Eazy & YG)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887513",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71608604",
+            "track" : "Deja Vu (feat. Justin Bieber)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1373517317",
+            "album" : "beerbongs & bentleys",
+            "isrc" : "USUM71805173",
+            "track" : "Blame It On Me",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887754",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71515989",
+            "track" : "Too Young",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440888192",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614505",
+            "track" : "Feeling Whitney",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887741",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614477",
+            "track" : "Patient",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887506",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614468",
+            "track" : "Big Lie",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440888027",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614473",
+            "track" : "Money Made Me Do It (feat. 2 Chainz)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887751",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614479",
+            "track" : "Feel (feat. Kehlani)",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440888015",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614492",
+            "track" : "Yours Truly, Austin Post",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887760",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614489",
+            "track" : "Up There",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440888022",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614496",
+            "track" : "Leave",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887501",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614466",
+            "track" : "Broken Whiskey Glass",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440887518",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614500",
+            "track" : "Cold",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1440888025",
+            "album" : "Stoney (Deluxe)",
+            "isrc" : "USUM71614498",
+            "track" : "Hit This Hard",
+            "artist" : "Post Malone"
+        },
+        {
+            "service" : "applemusic",
+            "serviceId" : "1382319711",
+            "album" : "Jackie Chan (feat. Preme & Post Malone) - Single",
+            "isrc" : "CYA111800123",
+            "track" : "Jackie Chan (feat. Preme & Post Malone)",
+            "artist" : "Tiësto & Dzeko"
+        }
+    ],
+    "serviceId" : "pl.u-LdbqDWBs56GYKA",
+    "name" : "Post Malone | Best of...",
+    "service" : "applemusic"
+}
