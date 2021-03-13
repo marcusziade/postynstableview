@@ -5,6 +5,8 @@
 //  Created by Marcus Ziadé on 13.3.2021.
 //
 
+///Copy pasted from https://www.hackingwithswift.com/example-code/system/how-to-decode-json-from-your-app-bundle-the-easy-way
+
 import Foundation
 
 extension Bundle {
