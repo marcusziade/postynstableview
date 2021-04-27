@@ -10,12 +10,15 @@ import AppKit
 class ListViewController: NSViewController {
 
     // MARK: - Stores
+
     let tracksStore: TracksStore = TracksStore()
 
     // MARK: - Properties
+
     var tracks: [Track] = []
 
     // MARK: - UI Components
+
     let scrollView = NSScrollView()
 
     lazy var tableView: NSTableView = {
@@ -32,6 +35,7 @@ class ListViewController: NSViewController {
     }()
 
     // MARK: - Lifecycle methods
+
     override func loadView() {
         view = scrollView
         scrollView.documentView = tableView
@@ -45,19 +49,19 @@ class ListViewController: NSViewController {
             }
         }
     }
-
 }
 
 // MARK: - Tableview Datasource
+
 extension ListViewController: NSTableViewDataSource {
 
     func numberOfRows(in tableView: NSTableView) -> Int {
         return tracks.count
     }
-
 }
 
 // MARK: - Tableview Delegate
+
 extension ListViewController: NSTableViewDelegate {
 
     func tableView(_ tableView: NSTableView, viewFor tableColumn: NSTableColumn?, row: Int) -> NSView? {
@@ -66,5 +70,4 @@ extension ListViewController: NSTableViewDelegate {
         cell.addSubview(textField)
         return cell
     }
-
 }

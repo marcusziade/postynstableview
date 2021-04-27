@@ -10,13 +10,14 @@ import Foundation
 struct TracksResponse: Codable {
 
     // MARK: - Properties
-    let tracks: [Track]
 
+    let tracks: [Track]
 }
 
 struct Track: Codable, Identifiable {
 
     // MARK: - Types
+
     enum CodingKeys: String, CodingKey {
         case id = "serviceId"
         case track = "track"
@@ -24,8 +25,8 @@ struct Track: Codable, Identifiable {
     }
 
     // MARK: - Properties
+
     let id: String
     let track: String
     let album: String
-
 }

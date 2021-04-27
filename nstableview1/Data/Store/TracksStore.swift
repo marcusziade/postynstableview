@@ -13,5 +13,4 @@ class TracksStore {
         let decoded = Bundle.main.decode(TracksResponse.self, from: "posty.json")
         completion(decoded.tracks)
     }
-
 }
