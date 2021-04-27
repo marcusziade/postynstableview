@@ -11,17 +11,17 @@ class ListViewController: NSViewController {
 
     // MARK: - Stores
 
-    let tracksStore: TracksStore = TracksStore()
+    private let tracksStore: TracksStore = TracksStore()
 
     // MARK: - Properties
 
-    var tracks: [Track] = []
+    private var tracks: [Track] = []
 
     // MARK: - UI Components
 
-    let scrollView = NSScrollView()
+    private let scrollView = NSScrollView()
 
-    lazy var tableView: NSTableView = {
+    private lazy var tableView: NSTableView = {
         let tableView = NSTableView()
         tableView.intercellSpacing = NSSize(width: 8, height: 12)
         tableView.headerView = nil
