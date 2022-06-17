@@ -7,7 +7,7 @@
 
 import Foundation
 
-class TracksStore {
+final class TracksStore {
 
     func getTracks(completion: @escaping (([Track]) -> Void)) {
         let decoded = Bundle.main.decode(TracksResponse.self, from: "posty.json")

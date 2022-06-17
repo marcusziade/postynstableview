@@ -6,18 +6,29 @@
 //
 
 import AppKit
+import Foundation
 
-class ListViewController: NSViewController {
+final class ListViewController: NSViewController {
 
-    // MARK: - Stores
+    override func loadView() {
+        view = scrollView
+        scrollView.documentView = tableView
+        view.setFrameSize(NSSize(width: 400, height: 500))
 
-    private let tracksStore: TracksStore = TracksStore()
+        tracksStore.getTracks { [unowned self] tracks in
+            DispatchQueue.main.async { [self] in
+                self.tracks = tracks
+                tableView.reloadData()
+            }
+        }
+    }
 
-    // MARK: - Properties
+
+    // MARK: - Private
+
+    private let tracksStore = TracksStore()
 
     private var tracks: [Track] = []
-
-    // MARK: - UI Components
 
     private let scrollView = NSScrollView()
 
@@ -33,25 +44,9 @@ class ListViewController: NSViewController {
         tableView.delegate = self
         return tableView
     }()
-
-    // MARK: - Lifecycle methods
-
-    override func loadView() {
-        view = scrollView
-        scrollView.documentView = tableView
-        view.setFrameSize(NSSize(width: 400, height: 500))
-
-        tracksStore.getTracks { [weak self] tracks in
-            guard let self = self else { return }
-            DispatchQueue.main.async {
-                self.tracks = tracks
-                self.tableView.reloadData()
-            }
-        }
-    }
 }
 
-// MARK: - Tableview Datasource
+// MARK: - NSTableViewDataSource
 
 extension ListViewController: NSTableViewDataSource {
 
@@ -60,7 +55,7 @@ extension ListViewController: NSTableViewDataSource {
     }
 }
 
-// MARK: - Tableview Delegate
+// MARK: - NSTableViewDelegate
 
 extension ListViewController: NSTableViewDelegate {
 
